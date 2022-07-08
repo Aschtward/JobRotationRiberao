@@ -1,0 +1,26 @@
+Questão 1: 
+Considerando que o laço começa em k  = 0 e prossegue enquanto k < 13, temos um loop de 13 iterações
+k = 0,1,2,3,4,5,6,7,8,9,10,11,12,13, visto que o laço entra no caso k = 12, soma 13, porém não entra em k = 13, logo
+basta somar os numeros acima para saber o valor de soma, que é 91.
+
+Questão 3:
+
+a)Pa com soma de 2, próximo numero é 9.
+
+b)Pg com  multiplicação de 2, próximo numero é 128.
+
+c)São os numeros em ordem elevado ao quadrado, logo próximo número é 49.
+
+d)Basicamente a questão C porém os números estão sendo somados com 2, a ordem exibida é 2,4,6 e 8, o próximo número dessa sequência é 100
+
+e)Sequência de fibonacci, próximo numero será 13.
+
+f)Analisando essa sequencia pode ser perceber não se tratar de uma PA nem de uma PG, pois não segue um padrão especifico, logo analisei a 
+lógica dos números e percebi que todos os números começam com D, então seguindo esse padrão diria que o próximo número  é 200.
+
+Questão 4:
+
+Quando os carros se cruzarem eles estarão a mesma distância de Ribeirão Preto, pois não tem como eles se cruzarem sem estarem no mesmo espaço, isso se deve a estarem em sentidos opostos.
+Basicamente o pensamento foi, eu sai de Sp com destino a Maringá, após passar por 300km eu cruzo com um carro com destino a Sp, a distância que ele está de Sp é a mesma que eu já percorri.
+
+
